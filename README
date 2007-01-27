@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1782
+
+CL is the programming language of stored procedures embedded in the Polyhedra database.
+For more information about Polyhedra, see: http://www.enea.com/templates/Extension____259.aspx
+
+This script provides syntax highlighting and folding for this language.
+
+See also vimscript#1799: Polyhedra configuration syntax
